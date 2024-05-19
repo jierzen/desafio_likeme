@@ -13,6 +13,4 @@ guardar los posts en una base de datos PostgreSQL usando el paquete `pg`.
 3. **Crear una ruta GET** con Express para devolver los registros de una tabla alojada en PostgreSQL. (3 puntos)
 4. **Crear una ruta POST** con Express que reciba y almacene en PostgreSQL un nuevo registro. (3 puntos)
 
-## Instrucciones
-
 ### Desarrollado por Jorge Espinoza.
