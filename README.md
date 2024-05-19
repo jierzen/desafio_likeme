@@ -6,7 +6,7 @@ La red social "Like Me" está en las primeras etapas de desarrollo, enfocándose
 Como desarrollador full stack de la empresa "Like Me", he construido un servidor que disponibilice las rutas GET y POST para consultas y 
 guardar los posts en una base de datos PostgreSQL usando el paquete `pg`.
 
-## Soluciones construidas
+## Soluciones construidas: archivo servidor.js
 
 1. **Habilitar los CORS en el servidor** utilizando el paquete de npm. (2 puntos)
 2. **Usar el paquete pg** para conectarse e interactuar con la base de datos. (2 puntos)
